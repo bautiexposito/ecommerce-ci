@@ -8,9 +8,11 @@
         <!-- Google Font: Source Sans Pro -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
         <!-- Font Awesome -->
-        <link rel="stylesheet" href="<?php echo base_url() ?>assets/fontawesome-free/css/all.min.css">
+        <link rel="stylesheet" href="<?php echo base_url() ?>assets/font-awesome/css/font-awesome.min.css">
         <!-- adminlte-->
-        <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/admin/adminlte.min.css">
+        <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/admin/AdminLTE.min.css">
+        <!-- css-->
+        <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/admin/AdminLTE.min.css">
     </head>
     <body class="hold-transition sidebar-mini pace-primary">
         <!-- Site wrapper -->
@@ -231,7 +233,7 @@
 
 
         
-        <script src="<?php echo base_url() ?>assets/js/jquery.min.js"></script>
+        <script src="<?php echo base_url() ?>assets/js/jquery-3.7.1.min.js"></script>
         
         <script src="<?php echo base_url() ?>assets/js/bootstrap.min.js"></script>
         <!-- AdminLTE App -->
